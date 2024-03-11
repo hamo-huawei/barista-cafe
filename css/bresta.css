@@ -79,7 +79,7 @@ ul {
     position: fixed;
     left: 0;
     width: 100%;
-    top: 30px;
+    top: 10px;
     z-index: 1000000;
     padding: 3px;
 }
@@ -249,7 +249,7 @@ ul {
 /* end landing page  */
 /* start kl  */
 .kl {
-    padding: var(--top-bottom-padding) 0;
+    padding: var(--top-bottom-padding) 10px;
     background-color: #97450e;
     min-height: 500px;
 }
@@ -390,7 +390,7 @@ ul {
 /* start sec3  */
 .sec3 {
     background-color: #b78752;
-    padding: var(--top-bottom-padding) 0;
+    padding: var(--top-bottom-padding) 10px;
 }
 
 .sec3 .container .content {
@@ -472,7 +472,7 @@ ul {
 /* end sec3  */
 /* start sec4  */
 .sec4 {
-    padding: var(--top-bottom-padding) 0;
+    padding: var(--top-bottom-padding) 10px;
     background-image: url(../images/happy-waitress-giving-coffee-customers-while-serving-them-coffee-shop.jpg);
     background-size: cover;
 }
@@ -540,7 +540,7 @@ ul {
 .sec5 {
     min-height: 600px;
     background-color: #ab6b34;
-    padding: var(--top-bottom-padding) 0;
+    padding: var(--top-bottom-padding) 10px;
 }
 
 .sec5 .container .head {}
@@ -733,7 +733,7 @@ ul {
 .sec6 {
     background-image: linear-gradient(0deg, #f57100, transparent), url(../images/young-female-barista-wear-face-mask-serving-take-away-hot-coffee-paper-cup-consumer-cafe.jpg);
     background-size: cover;
-    padding: var(--top-bottom-padding) 0;
+    padding: var(--top-bottom-padding) 10px;
 }
 
 .sec6 .container .main-head {
